@@ -15,7 +15,7 @@ Repository contains scripts and raw data for a study of the relative efficacy of
 
 (5) Reformatted datasets with amphibian detection data from field, qPCR, and meatbarcoding
 
-(6) Scripts for statistical analysis
+(6) Scripts for data re-formatting and analysis
 
 
 
