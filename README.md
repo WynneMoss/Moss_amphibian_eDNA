@@ -5,9 +5,10 @@ Data processing and analysis for comparative study of amphibian survey technique
 Repository contains scripts and raw data for a study of the relative efficacy of environmental DNA techniques for amphibian monitoring.
 
 # Contents:
-(1) Reference databases for metabarcoding analysis - pending
+(1) Curated reference databases used in metabarcoding analysis (GenBank/fasta format) [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/01_reference_database)
 
-(2) Notebook to run metaBEAT pipeline - pending
+(2) Notebook to run metaBEAT pipeline
+[(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/02_metaBEAT)
 
 (3) NCBI Sequence read archive (SRA) accession numbers for raw Illumina data - pending
 

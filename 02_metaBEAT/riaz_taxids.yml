@@ -1,0 +1,888 @@
+---
+type: node
+tax_id: "1985985"
+parent_id: "164967"
+rank: subspecies
+names:
+  - tax_name: "Cynops cyanurus chuxiongensis"
+source_name: "Cynops cyanurus chuxiongensis"
+---
+type: node
+tax_id: "2025652"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena cf. galeata LEGE 15489"
+source_name: "Pseudanabaena cf. galeata LEGE 15489"
+---
+type: node
+tax_id: "2025653"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena cf. galeata LEGE 15490"
+source_name: "Pseudanabaena cf. galeata LEGE 15490"
+---
+type: node
+tax_id: "2025654"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena cf. galeata LEGE 15491"
+source_name: "Pseudanabaena cf. galeata LEGE 15491"
+---
+type: node
+tax_id: "2055901"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena sp. CCM-UFV063"
+source_name: "Pseudanabaena sp. CCM-UFV063"
+---
+type: node
+tax_id: "2055902"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena sp. CCM-UFV065"
+source_name: "Pseudanabaena sp. CCM-UFV065"
+---
+type: node
+tax_id: "2055912"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/C3-08"
+source_name: "Aphanizomenon gracile NRC_JIE/C3-08"
+---
+type: node
+tax_id: "2055913"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/D3-07"
+source_name: "Aphanizomenon gracile NRC_JIE/D3-07"
+---
+type: node
+tax_id: "2055914"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/D4-09"
+source_name: "Aphanizomenon gracile NRC_JIE/D4-09"
+---
+type: node
+tax_id: "2055915"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/D5-09"
+source_name: "Aphanizomenon gracile NRC_JIE/D5-09"
+---
+type: node
+tax_id: "2055916"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/E3-07"
+source_name: "Aphanizomenon gracile NRC_JIE/E3-07"
+---
+type: node
+tax_id: "2055917"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/E3-09"
+source_name: "Aphanizomenon gracile NRC_JIE/E3-09"
+---
+type: node
+tax_id: "2055918"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/E5-09"
+source_name: "Aphanizomenon gracile NRC_JIE/E5-09"
+---
+type: node
+tax_id: "2055919"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_JIE/F5-09"
+source_name: "Aphanizomenon gracile NRC_JIE/F5-09"
+---
+type: node
+tax_id: "2055920"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/B41-09"
+source_name: "Aphanizomenon gracile NRC_SIR/B41-09"
+---
+type: node
+tax_id: "2055921"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/C10-07"
+source_name: "Aphanizomenon gracile NRC_SIR/C10-07"
+---
+type: node
+tax_id: "2055922"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/C31-09"
+source_name: "Aphanizomenon gracile NRC_SIR/C31-09"
+---
+type: node
+tax_id: "2055923"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/D5-09"
+source_name: "Aphanizomenon gracile NRC_SIR/D5-09"
+---
+type: node
+tax_id: "2055924"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/D6-09"
+source_name: "Aphanizomenon gracile NRC_SIR/D6-09"
+---
+type: node
+tax_id: "2055925"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/E10-07"
+source_name: "Aphanizomenon gracile NRC_SIR/E10-07"
+---
+type: node
+tax_id: "2055926"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/E5-09"
+source_name: "Aphanizomenon gracile NRC_SIR/E5-09"
+---
+type: node
+tax_id: "2055927"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/E6-09"
+source_name: "Aphanizomenon gracile NRC_SIR/E6-09"
+---
+type: node
+tax_id: "2055928"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/F2-09"
+source_name: "Aphanizomenon gracile NRC_SIR/F2-09"
+---
+type: node
+tax_id: "2055929"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/G22-09"
+source_name: "Aphanizomenon gracile NRC_SIR/G22-09"
+---
+type: node
+tax_id: "2055930"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon gracile NRC_SIR/G5-09"
+source_name: "Aphanizomenon gracile NRC_SIR/G5-09"
+---
+type: node
+tax_id: "2055931"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon flos-aquae NRC_SIR/G6-07"
+source_name: "Aphanizomenon flos-aquae NRC_SIR/G6-07"
+---
+type: node
+tax_id: "2055932"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon flos-aquae NRC_SIR/D6-07"
+source_name: "Aphanizomenon flos-aquae NRC_SIR/D6-07"
+---
+type: node
+tax_id: "2070356"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena catenata NIVA-CYA 146"
+source_name: "Pseudanabaena catenata NIVA-CYA 146"
+---
+type: node
+tax_id: "2169544"
+parent_id: "1129"
+rank: species
+names:
+  - tax_name: "Synechococcus sp. 71b/2013"
+source_name: "Synechococcus sp. 71b/2013"
+---
+type: node
+tax_id: "2169545"
+parent_id: "1129"
+rank: species
+names:
+  - tax_name: "Synechococcus sp. UPOC/S3"
+source_name: "Synechococcus sp. UPOC/S3"
+---
+type: node
+tax_id: "2169546"
+parent_id: "1129"
+rank: species
+names:
+  - tax_name: "Synechococcus sp. UPOC/S4"
+source_name: "Synechococcus sp. UPOC/S4"
+---
+type: node
+tax_id: "2487363"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena frigida ULC066"
+source_name: "Pseudanabaena frigida ULC066"
+---
+type: node
+tax_id: "2490569"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon sp. CHAB1684"
+source_name: "Aphanizomenon sp. CHAB1684"
+---
+type: node
+tax_id: "2490572"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum planctonicum SDZ-1"
+source_name: "Dolichospermum planctonicum SDZ-1"
+---
+type: node
+tax_id: "2495765"
+parent_id: "167375"
+rank: species
+names:
+  - tax_name: "Cyanobium sp. ULC182"
+source_name: "Cyanobium sp. ULC182"
+---
+type: node
+tax_id: "2495766"
+parent_id: "167375"
+rank: species
+names:
+  - tax_name: "Cyanobium sp. ULC183"
+source_name: "Cyanobium sp. ULC183"
+---
+type: node
+tax_id: "2495767"
+parent_id: "167375"
+rank: species
+names:
+  - tax_name: "Cyanobium sp. ULC184"
+source_name: "Cyanobium sp. ULC184"
+---
+type: node
+tax_id: "2528653"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis flos-aquae NRERC-207"
+source_name: "Microcystis flos-aquae NRERC-207"
+---
+type: node
+tax_id: "2528654"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis flos-aquae NRERC-211"
+source_name: "Microcystis flos-aquae NRERC-211"
+---
+type: node
+tax_id: "2528655"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis flos-aquae NRERC-218"
+source_name: "Microcystis flos-aquae NRERC-218"
+---
+type: node
+tax_id: "2528656"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis aeruginosa NRERC-209"
+source_name: "Microcystis aeruginosa NRERC-209"
+---
+type: node
+tax_id: "2528657"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis aeruginosa NRERC-214"
+source_name: "Microcystis aeruginosa NRERC-214"
+---
+type: node
+tax_id: "2528658"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis ichthyoblabe NRERC-206"
+source_name: "Microcystis ichthyoblabe NRERC-206"
+---
+type: node
+tax_id: "2528659"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis ichthyoblabe NRERC-208"
+source_name: "Microcystis ichthyoblabe NRERC-208"
+---
+type: node
+tax_id: "2528660"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis ichthyoblabe NRERC-217"
+source_name: "Microcystis ichthyoblabe NRERC-217"
+---
+type: node
+tax_id: "2528661"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis wesenbergii NRERC-210"
+source_name: "Microcystis wesenbergii NRERC-210"
+---
+type: node
+tax_id: "2528662"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis wesenbergii NRERC-212"
+source_name: "Microcystis wesenbergii NRERC-212"
+---
+type: node
+tax_id: "2528663"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis wesenbergii NRERC-216"
+source_name: "Microcystis wesenbergii NRERC-216"
+---
+type: node
+tax_id: "2529302"
+parent_id: "1129"
+rank: species
+names:
+  - tax_name: "Synechococcus sp. K6"
+source_name: "Synechococcus sp. K6"
+---
+type: node
+tax_id: "2557819"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB291"
+source_name: "Synechocystis sp. YACCYB291"
+---
+type: node
+tax_id: "2557820"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB293"
+source_name: "Synechocystis sp. YACCYB293"
+---
+type: node
+tax_id: "2557821"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB298"
+source_name: "Synechocystis sp. YACCYB298"
+---
+type: node
+tax_id: "2557822"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB302"
+source_name: "Synechocystis sp. YACCYB302"
+---
+type: node
+tax_id: "2557823"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB305"
+source_name: "Synechocystis sp. YACCYB305"
+---
+type: node
+tax_id: "2557824"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB307"
+source_name: "Synechocystis sp. YACCYB307"
+---
+type: node
+tax_id: "2557825"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB308"
+source_name: "Synechocystis sp. YACCYB308"
+---
+type: node
+tax_id: "2557826"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB312"
+source_name: "Synechocystis sp. YACCYB312"
+---
+type: node
+tax_id: "2557827"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB315"
+source_name: "Synechocystis sp. YACCYB315"
+---
+type: node
+tax_id: "2557828"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB318"
+source_name: "Synechocystis sp. YACCYB318"
+---
+type: node
+tax_id: "2557829"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB319"
+source_name: "Synechocystis sp. YACCYB319"
+---
+type: node
+tax_id: "2557830"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB322"
+source_name: "Synechocystis sp. YACCYB322"
+---
+type: node
+tax_id: "2557831"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB325"
+source_name: "Synechocystis sp. YACCYB325"
+---
+type: node
+tax_id: "2557832"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB334"
+source_name: "Synechocystis sp. YACCYB334"
+---
+type: node
+tax_id: "2557833"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB361"
+source_name: "Synechocystis sp. YACCYB361"
+---
+type: node
+tax_id: "2557834"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB364"
+source_name: "Synechocystis sp. YACCYB364"
+---
+type: node
+tax_id: "2557835"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB384"
+source_name: "Synechocystis sp. YACCYB384"
+---
+type: node
+tax_id: "2557836"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB404"
+source_name: "Synechocystis sp. YACCYB404"
+---
+type: node
+tax_id: "2557837"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB405"
+source_name: "Synechocystis sp. YACCYB405"
+---
+type: node
+tax_id: "2557838"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB413"
+source_name: "Synechocystis sp. YACCYB413"
+---
+type: node
+tax_id: "2557839"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB448"
+source_name: "Synechocystis sp. YACCYB448"
+---
+type: node
+tax_id: "2557840"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB462"
+source_name: "Synechocystis sp. YACCYB462"
+---
+type: node
+tax_id: "2557841"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB466"
+source_name: "Synechocystis sp. YACCYB466"
+---
+type: node
+tax_id: "2557842"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB467"
+source_name: "Synechocystis sp. YACCYB467"
+---
+type: node
+tax_id: "2557843"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB480"
+source_name: "Synechocystis sp. YACCYB480"
+---
+type: node
+tax_id: "2557844"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB500"
+source_name: "Synechocystis sp. YACCYB500"
+---
+type: node
+tax_id: "2557845"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB507"
+source_name: "Synechocystis sp. YACCYB507"
+---
+type: node
+tax_id: "2557846"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB510"
+source_name: "Synechocystis sp. YACCYB510"
+---
+type: node
+tax_id: "2557847"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB521"
+source_name: "Synechocystis sp. YACCYB521"
+---
+type: node
+tax_id: "2557848"
+parent_id: "1142"
+rank: species
+names:
+  - tax_name: "Synechocystis sp. YACCYB528"
+source_name: "Synechocystis sp. YACCYB528"
+---
+type: node
+tax_id: "2583381"
+parent_id: "164967"
+rank: subspecies
+names:
+  - tax_name: "Cynops cyanurus cyanurus"
+source_name: "Cynops cyanurus cyanurus"
+---
+type: node
+tax_id: "2583465"
+parent_id: "385657"
+rank: subspecies
+names:
+  - tax_name: "Notophthalmus meridionalis kallerti"
+source_name: "Notophthalmus meridionalis kallerti"
+---
+type: node
+tax_id: "2583466"
+parent_id: "385657"
+rank: subspecies
+names:
+  - tax_name: "Notophthalmus meridionalis meridionalis"
+source_name: "Notophthalmus meridionalis meridionalis"
+---
+type: node
+tax_id: "2588784"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis sp. TAU-MAC 0710"
+source_name: "Microcystis sp. TAU-MAC 0710"
+---
+type: node
+tax_id: "2588785"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis sp. TAU-MAC 2010"
+source_name: "Microcystis sp. TAU-MAC 2010"
+---
+type: node
+tax_id: "2588787"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis sp. TAU-MAC 2310"
+source_name: "Microcystis sp. TAU-MAC 2310"
+---
+type: node
+tax_id: "2588788"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis sp. TAU-MAC 2410"
+source_name: "Microcystis sp. TAU-MAC 2410"
+---
+type: node
+tax_id: "2588792"
+parent_id: "1129"
+rank: species
+names:
+  - tax_name: "Synechococcus sp. TAU-MAC 0499"
+source_name: "Synechococcus sp. TAU-MAC 0499"
+---
+type: node
+tax_id: "2588799"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis aeruginosa TAU-MAC 0610"
+source_name: "Microcystis aeruginosa TAU-MAC 0610"
+---
+type: node
+tax_id: "2588800"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis flos-aquae TAU-MAC 0410"
+source_name: "Microcystis flos-aquae TAU-MAC 0410"
+---
+type: node
+tax_id: "2588802"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis flos-aquae TAU-MAC 1610"
+source_name: "Microcystis flos-aquae TAU-MAC 1610"
+---
+type: node
+tax_id: "2588976"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis sp. TAU-MAC 1710"
+source_name: "Microcystis sp. TAU-MAC 1710"
+---
+type: node
+tax_id: "2588977"
+parent_id: "1125"
+rank: species
+names:
+  - tax_name: "Microcystis flos-aquae TAU-MAC 1410"
+source_name: "Microcystis flos-aquae TAU-MAC 1410"
+---
+type: node
+tax_id: "2591614"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon flos-aquae NRERC-019"
+source_name: "Aphanizomenon flos-aquae NRERC-019"
+---
+type: node
+tax_id: "2591615"
+parent_id: "1175"
+rank: species
+names:
+  - tax_name: "Aphanizomenon flos-aquae NRERC-020"
+source_name: "Aphanizomenon flos-aquae NRERC-020"
+---
+type: node
+tax_id: "2592617"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena galeata NRERC-312"
+source_name: "Pseudanabaena galeata NRERC-312"
+---
+type: node
+tax_id: "2592618"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena mucicola NRERC-306"
+source_name: "Pseudanabaena mucicola NRERC-306"
+---
+type: node
+tax_id: "2592619"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena mucicola NRERC-307"
+source_name: "Pseudanabaena mucicola NRERC-307"
+---
+type: node
+tax_id: "2593293"
+parent_id: "1152"
+rank: species
+names:
+  - tax_name: "Pseudanabaena sp. NRERC-305"
+source_name: "Pseudanabaena sp. NRERC-305"
+---
+type: node
+tax_id: "2598097"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum circinale HYCC1307-DC37"
+source_name: "Dolichospermum circinale HYCC1307-DC37"
+---
+type: node
+tax_id: "2598098"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum circinale HYUA1307-DC24"
+source_name: "Dolichospermum circinale HYUA1307-DC24"
+---
+type: node
+tax_id: "2598099"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum circinale HYUA1307-DC26"
+source_name: "Dolichospermum circinale HYUA1307-DC26"
+---
+type: node
+tax_id: "2598100"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum smithii HYCC1307-DS34"
+source_name: "Dolichospermum smithii HYCC1307-DS34"
+---
+type: node
+tax_id: "2598101"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum smithii HYCP1307-DS4"
+source_name: "Dolichospermum smithii HYCP1307-DS4"
+---
+type: node
+tax_id: "2598102"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum smithii HYCP1307-DS48"
+source_name: "Dolichospermum smithii HYCP1307-DS48"
+---
+type: node
+tax_id: "2598103"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum smithii HYUA1307-DS23"
+source_name: "Dolichospermum smithii HYUA1307-DS23"
+---
+type: node
+tax_id: "2598104"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum smithii HYUA1307-DS44"
+source_name: "Dolichospermum smithii HYUA1307-DS44"
+---
+type: node
+tax_id: "2598105"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum smithii HYUA1307-DS46"
+source_name: "Dolichospermum smithii HYUA1307-DS46"
+---
+type: node
+tax_id: "2598106"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Dolichospermum mucosum HYCP1307-DM8"
+source_name: "Dolichospermum mucosum HYCP1307-DM8"
+---
+type: node
+tax_id: "2490573"
+parent_id: "748770"
+rank: species
+names:
+  - tax_name: "Fake species"
+source_name: "Fake species"
+---
+type: node
+tax_id: "2495638"
+parent_id: "8340"
+rank: species
+names:
+  - tax_name: "Siren reticulata"
+source_name: "Siren reticulata"
+---
+type: node
+tax_id: "2497118"
+parent_id: "9434"
+rank: species
+names:
+  - tax_name: "Myotis occultus"
+source_name: "Myotis occultus"

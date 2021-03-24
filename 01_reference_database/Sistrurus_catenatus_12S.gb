@@ -1,0 +1,199 @@
+LOCUS       HQ257513                 825 bp    DNA     linear   VRT 07-APR-2011
+DEFINITION  Sistrurus catenatus voucher ROM 41217 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   HQ257513
+VERSION     HQ257513.1
+KEYWORDS    .
+SOURCE      mitochondrion Sistrurus catenatus (massasauga)
+  ORGANISM  Sistrurus catenatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Viperidae; Crotalinae;
+            Sistrurus.
+REFERENCE   1  (bases 1 to 825)
+  AUTHORS   Bryson,R.W. Jr., Murphy,R.W., Lathrop,A. and Lazcano-Villareal,D.
+  TITLE     Evolutionary drivers of phylogeographical diversity in the
+            highlands of Mexico: a case study of the Crotalus triseriatus
+            species group of montane rattlesnakes
+  JOURNAL   J. Biogeogr. 38 (4), 697-710 (2011)
+REFERENCE   2  (bases 1 to 825)
+  AUTHORS   Bryson,R.W. Jr., Murphy,R.W., Lathrop,A. and Lazcano-Villareal,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-SEP-2010) Natural History, Royal Ontario Museum, 100
+            Queen's Park, Toronto, Ontario M5S 2C6, Canada
+FEATURES             Location/Qualifiers
+     source          1..825
+                     /organism="Sistrurus catenatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM 41217"
+                     /db_xref="taxon:8756"
+                     /country="Canada: Ontario, Parry Sound, Ardbeg"
+                     /note="identical sequence found in specimen with voucher
+                     ROM 41219"
+     rRNA            <1..463
+                     /product="12S ribosomal RNA"
+     gene            464..526
+                     /gene="trnV"
+     tRNA            464..526
+                     /gene="trnV"
+                     /product="tRNA-Val"
+     rRNA            527..>825
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 ttgtccgcca aacaactacg agtagtactt aaaacttaaa agacttgacg gtgcttcacc
+       61 acgccctaga ggagcctgtc tagcaaccga taatccacga ttaacccagc ctcctctggc
+      121 ctaacagtct atataccgcc gtcgccagct taccttgtaa aagaaataaa gtaagccaaa
+      181 cagtattttc cctaaaacga caggtcgagg tgtaactaat gaggaggact aagatgggct
+      241 acattctcct aaccgagaat acgaacaata ctatgaaatt agtatttaaa ggcggattta
+      301 gcagtaagat aagaataaaa tacttaactg aacataacgc aatgaagtgc gtacacaccg
+      361 cccgtcaccc ctgctaaaaa acacataatt aaataaccac caaaaacact taaaccaggg
+      421 taagtcgtaa catggtaagc gtactggaaa gtgcacttag aaacaaaaga gtacttaaac
+      481 aaagcactcg acttacactc gagcgatatt acataaatct ttttgagctg atctgaacaa
+      541 cgaaccacaa acataccaca ataaacaaac aaatcatttg acctacccag tagatgcgat
+      601 cgaacagtta ttagtcacaa tcaaagtacc gcaagggaac caccacaagc aatgaacagc
+      661 aaagactaac ccttgtacct tttgcatcat ggtttagcaa gaacacaagg acaagaagaa
+      721 tcatagccct tcccccgaaa ccgaacgagc tatttttaag cagtctaacg gacgcaccct
+      781 tctatgtagc aaaatagtgg gaagacttga aaatagaggt gaaac
+//
+
+LOCUS       AF259226                 491 bp    DNA     linear   VRT 17-OCT-2002
+DEFINITION  Sistrurus catenatus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF259226
+VERSION     AF259226.1
+KEYWORDS    .
+SOURCE      mitochondrion Sistrurus catenatus (massasauga)
+  ORGANISM  Sistrurus catenatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Viperidae; Crotalinae;
+            Sistrurus.
+REFERENCE   1  (bases 1 to 491)
+  AUTHORS   Murphy,R.W., Fu,J., Lathrop,A., Feltham,J.V. and Kovac,V.
+  TITLE     Phylogeny of the rattlesnakes (Crotalus and Sistrurus) inferred
+            from sequences of five mitochondrial DNA genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 491)
+  AUTHORS   Murphy,R.W., Fu,J., Lathrop,A., Feltham,J.V. and Kovac,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2000) Center for Biodiversity and Conservation
+            Biology, Royal Ontario Museum, 100 Queen's Park, Toronto, Ontario
+            m5S 2C6, Canada
+FEATURES             Location/Qualifiers
+     source          1..491
+                     /organism="Sistrurus catenatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM-FC 243"
+                     /db_xref="taxon:8756"
+                     /country="Canada: Ontario Province"
+     rRNA            <1..>491
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 gcctagccgt aacatacaat taaactacta attgtccgcc aaacaactac gagtagtact
+       61 taaaacttaa aagacttgac ggtgcttcac cacgccctag aggagcctgt ctagcaaccg
+      121 ataatccacg attaacccag cctcctctgg cctaacagtc tatataccgc cgtcgccagc
+      181 ttaccttgta aaagaaataa agtaagccaa acagtatttt ccctaaaacg acaggtcgag
+      241 gtgtaactaa tgaggaggac taagatgggc tacattctcc taaccgagaa tacgaacaat
+      301 actatgaaat tagtatttaa aggcggattt agcagtaaga taagaataaa atacttaact
+      361 gaacataacg caatgaagtg cgtacacacc gcccgtcacc cctgctaaaa caacacataa
+      421 ttaaataaac caccaaaaac acttaaacca gggtaagtcg taacatggta agcgtactgg
+      481 aaagtgcact t
+//
+
+LOCUS       AF057227                 412 bp    DNA     linear   VRT 26-AUG-1999
+DEFINITION  Sistrurus catenatus 12S small subunit ribosomal RNA gene,
+            mitochondrial gene for mitochondrial RNA, partial sequence.
+ACCESSION   AF057227
+VERSION     AF057227.1
+KEYWORDS    .
+SOURCE      mitochondrion Sistrurus catenatus (massasauga)
+  ORGANISM  Sistrurus catenatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Viperidae; Crotalinae;
+            Sistrurus.
+REFERENCE   1  (bases 1 to 412)
+  AUTHORS   Parkinson,C.L.
+  TITLE     Molecular systematics and biogeographical history of pitvipers as
+            determined by mitochondrial ribosomal DNA sequences
+  JOURNAL   Copeia 3, 576-586 (1999)
+REFERENCE   2  (bases 1 to 412)
+  AUTHORS   Parkinson,C.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-APR-1998) Dept. of Biology, Indiana University, 229
+            Jordan Hall, Bloomington, IN 47405, USA
+FEATURES             Location/Qualifiers
+     source          1..412
+                     /organism="Sistrurus catenatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8756"
+                     /tissue_type="liver"
+     rRNA            <1..>412
+                     /product="12S small subunit ribosomal RNA"
+ORIGIN      
+        1 gcctagccgt aaaatacaat taaactacca attgtccgcc aaacaactac gagtactact
+       61 taaaacttaa aagacttgac ggtgcttcac cacgccctag aggagcctgt ctagcaaccg
+      121 ataatccacg attaacccag ccccccctag cccaacagtc tatataccgc cgtcgccagc
+      181 ttaccttgta aaagaaataa agtaagccaa acagtaattt caactaaaac gacaggtcga
+      241 ggtgtaacta atgaggggga ctaagatggg ctacattctc ctgactgagg atacgaacaa
+      301 tactatgaaa ttagtattta aaggcggatt tagcagtaag ataagaataa aatacttaac
+      361 tgaacataac gcaatgaagc gcgtacacac cgcccgtcac ccctgctaac ac
+//
+
+LOCUS       DQ464268                 884 bp    mRNA    linear   HTC 26-MAY-2008
+DEFINITION  Sistrurus catenatus edwardsi clone 1A 12S ribosomal RNA-like mRNA,
+            partial sequence; mitochondrial.
+ACCESSION   DQ464268
+VERSION     DQ464268.1
+KEYWORDS    HTC.
+SOURCE      mitochondrion Sistrurus catenatus edwardsi (desert massasauga)
+  ORGANISM  Sistrurus catenatus edwardsi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Colubroidea; Viperidae; Crotalinae;
+            Sistrurus.
+REFERENCE   1  (bases 1 to 884)
+  AUTHORS   Pahari,S., Mackessy,S.P. and Kini,R.M.
+  TITLE     The venom gland transcriptome of the Desert Massasauga rattlesnake
+            (Sistrurus catenatus edwardsii): towards an understanding of venom
+            composition among advanced snakes (Superfamily Colubroidea)
+  JOURNAL   BMC Mol. Biol. 8, 115 (2007)
+   PUBMED   18096037
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 884)
+  AUTHORS   Kini,R.M., Mackessy,S.P. and Pahari,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2006) Biological Sciences, National University of
+            Singapore, 14 Science Drive 4, Singapore 117543, Singapore
+FEATURES             Location/Qualifiers
+     source          1..884
+                     /organism="Sistrurus catenatus edwardsi"
+                     /organelle="mitochondrion"
+                     /mol_type="mRNA"
+                     /sub_species="edwardsi"
+                     /db_xref="taxon:8762"
+                     /clone="1A"
+     misc_feature    <1..>884
+                     /note="similar to 12S ribosomal RNA"
+ORIGIN      
+        1 tgggaaggtc ttggtctcaa acctcacatt acctacaaac catctgttta tacatgcaag
+       61 cctccccaca acggtgaaat agccttaacc agagccggca tcagtccccc accacaacgc
+      121 caagcaacag ccacaccccc acgggcaaaa cagcagtaat taatattagg ccataagtga
+      181 aaacttgacc aagcaagatg ggtacagggc cggttaatct cgtgccagcg accgcggtta
+      241 cacgataggc ccaaggtaat attaacggcg taaaaatgac taaaattaac tgtcttcagc
+      301 ctagggagga agacaagcca ggccgtaaaa agccataagc cacgctaaca cctcgcccta
+      361 acatcacaca actttgactc atgaaaacta ggatacaaac taggattaga taccctacta
+      421 tgcctagccg taaaatacaa ttaaactacc aattgtccgc caaacaacta cgagtactac
+      481 ttaaaactta aaagacttga cggtgcttca ccacgcccta gaggagcctg tctagcaacc
+      541 gataatccac gattaaccca gcccccccta gcccaacagt ctatataccg ccgtcgccag
+      601 cttaccttgt aaaagaaata aagtaagcca aacagtaatt tcaactaaaa cgacaggtcg
+      661 aggtgtaact aatgaggggg actaagatgg gctacattct cctgactgag gatacgaaca
+      721 atactatgaa attagtattt aaaggcggat ttagcagtaa gataagaata aaatacttaa
+      781 ctgaacataa cgcaatgaag cgcgtacaca ccgcccgtca cccctgctaa cacaacacat
+      841 agttaaataa acaacccaaa aaaaaaaaaa aaaaaaaaaa aaaa
+//
+
