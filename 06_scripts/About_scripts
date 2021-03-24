@@ -1,0 +1,23 @@
+About
+Scripts folder contains:
+
+## Scripts for cleaning and re-formatting raw data (data_clean_reformat):
+01_threshold_reads_microDecon.R: this script reformats the raw assigned reads produced by metaBEAT, using the microDecon package to remove potential contaminants
+
+02_reformat_detection_data_allMethods.R: reformats data from field surveys, qPCR, and metabarcoding into detection/non-detection histories suitable for occupancy analyses.
+
+03_reformat_PCR_replicate_level.R: reformats raw qPCR data for hierarchical occupancy analyses at the PCR-replicate level. 
+
+## Scripts for reproducing statistical analyses and plots (data_analysis)
+
+1_OccupancyModels_AllMethods.R: run occupancy models comparing field techniques, metabarcoding, and qPCR for all six amphibian species (pooling replicates)
+
+2_HierOccu_Compare_MB_qPCR.R: run hierarchical occupancy models at the PCR replicate level to compare qPCR and eDNA - for California tiger salamanders only.
+
+3_HierOccu_qPCR_only.R: run hierarchical occupancy models at the PCR replicate level for qPCR data only, to evaluate effect of sample condition on detection - for California tiger salamanders and California red legged frogs.
+
+4_GLMM_Metabar.R: fit GLMMs to estimate the probability of detection from metabarcoding for all six species. Test for the influence of various sample covariates on detection with metabarcoding.
+
+5_SummaryStat_Plots.R: summarise raw detection data across methods, and create additional figures
+
+

@@ -1,2 +1,2 @@
 About
-# add important metadata here
+# Outputs from metaBEAT are stored here. These include assigned and unassigned reads (files starting with "Riaz_12S..."). Information on the number of reads remaining after each step are in the file metaBEAT_read_stats.csv. 

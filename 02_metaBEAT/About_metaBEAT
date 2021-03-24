@@ -1,2 +1,10 @@
 About
-# Add important metadata here
+The metaBEAT script will process raw Illumina reads and assign taxonomy, exporting a table with assigned reads.
+
+The output of the metaBEAT script are the files: 
+(1) Riaz_12S-trim30_crop114_min90_merge-forwonly_nonchimera_c1cov3_blast95-by-taxonomy-readcounts.blast.csv (assigned reads)
+(2) Riaz_12S-trim30_crop114_min90_merge-forwonly_nonchimera_c1cov3_blast95_unassigned-by-taxonomy-readcounts.blast.csv (originally unassigned reads)
+
+These are stored in the folder 04_taxonomic_assignment
+
+See the repository README for instructions on setting up an environment for running the metaBEAT script.

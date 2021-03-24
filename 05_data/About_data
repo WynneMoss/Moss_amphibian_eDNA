@@ -1,0 +1,35 @@
+# About
+
+Raw and re-formatted data for reproducing analyses
+
+Files include: 
+
+### CLEANED DATA 
+
+1) Detection_all_methods.csv: detection (1) or non-detection (0) of six amphibian species at each survey. Surveys were carried out at 20 sites (SITE_CODE). Each row is a survey using a certain method and carried out on a specific date. Species are: AMCA (Ambystoma californiense), BUBO (Anaxyrus boreas), PSRE (Pseudacris regilla), RACA (Rana catesbeiana), RADR (Rana draytonii), TATO (Taricha torosa). Methods include: VES (visual encounter survey), Seines, Dipnets, MB_md (metabarocoding of eDNA samples) and qPCR (quantitative PCR of eDNA samples)
+
+2) metabar_12s_postClean.csv: assigned reads from metabarcoding, following initial clean up. Produced by: 06_scripts/data_clean_reformat/01_threshold_reads_microDecon.R
+
+#### RAW DATA 
+
+1) eDNA_sample_covariates: contains information on environmental DNA samples taken. The site name (SITE_CODE), collection date, visit number are recorded for each separate DNA extract. Usually two DNA extracts were taken from each visit to a site. There were two visits per site. We recorded the amount of water filtered for each DNA extracted (Filter_volume_mL), whether the DNA extract was purified to remove inhibitors (Purified), what size filter was used (Filter_type), the pond area (Area), Julian day of visit (Day), pond salinity and pond turbidity.
+
+2) Field_survey_covariates: contains information on pond attributes corresponding to each survey. Methods include: VES (visual encounter survey), Seines, Dipnets, MB_md (metabarcoding of eDNA samples) and qPCR (quantitative PCR of eDNA samples). Turbidity, Salinity, and Area were recorded for each pond during field survey visits. We also recorded pond permanence, which was a ponds tendency to dry in most years (0) or retain water year round (1). The visit number and julian day of visit were also recorded.
+
+3) qPCR_raw_data.csv: PCR replicate-level data for qPCR assays of California red-legged frogs (RADR) and California tiger salamanders (CTS/AMCA3). Internal lab sample numbers are used but Field_Sample links the data to other covariates and datasets. 
+
+4) Field_survey_detections.csv: Raw detection data from field surveys for six amphibian species. Surveys were conducted at 20 ponds (SITE_CODE) at two different visits. Species are: AMCA (Ambystoma californiense), BUBO (Anaxyrus boreas), PSRE (Pseudacris regilla), RACA (Rana catesbeiana), RADR (Rana draytonii), TATO (Taricha torosa). Methods include: VES (visual encounter survey), Seines, and Dipnets. 
+
+5) Net_sweep_larvae.csv: Larval counts from seine surveys conducted at ponds across the California Bay Area. We mark the number of larval individuals (TOTAL_COUNT) of each of six amphibian species captured in seine hauls. The number of seine hauls (N_NETS_TOTAL) and the total distance seined (TOTAL_DIST) are included as metrics of survey effort. Count per seine is the total count divided by the number of nets, and density is the total count divided by the meters seined.
+
+6) Riaz_12S-trim30_crop114_min90_merge-forwonly_nonchimera_c1cov3_blast95_unassigned-by-taxonomy-readcounts.blast (a duplicate copy of the file produced from metaBEAT analysis)
+
+7) Riaz_12S-trim30_crop114_min90_merge-forwonly_nonchimera_c1cov3_blast95-by-taxonomy-readcounts.blast (a duplicate copy of the file produced from metaBEAT analysis)
+
+
+#### OCCUPANCY OBJECTS
+
+Folders contain formatted occupancy objects created by the scripts in 06_scripts/data_clean_reformat folder: scripts 02 and 03 take detection data and reformat into objects recognized by the R packages Unmarked and eDNAOccupancy.
+
+
+
