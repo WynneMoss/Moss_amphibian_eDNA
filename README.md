@@ -69,7 +69,7 @@ Raw illumina data will be deposited on the NCBI SRA:
 
 The sample specific accessions can be found [here](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/03_raw_reads/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/tree/main/03_raw_reads/How_to_download_from_SRA.ipynb).
 
-With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebook](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/tree/main/02_metaBeat/CA_2018_pond_eDNA_metabarcoding_analysis.ipynb).
+With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebook](https://github.com/WynneMoss/Moss_amphibian_eDNA/blob/main/02_metaBEAT/CA_2018_pond_eDNA_metabarcoding_analysis.ipynb).
 
 The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory ```raw_reads``` at the base of the repository structure and that the files are named according to the following convention: 'sampleID-marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. SampleID must correspond to the first column in the file ```Sample_accessions.tsv``` [here](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/03_raw_reads/Sample_accessions.tsv).
 
