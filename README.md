@@ -67,7 +67,7 @@ Raw illumina data will be deposited on the NCBI SRA:
 - SRA accessions: 
 
 
-The sample specific accessions can be found [here](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/03_raw_reads/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/tree/main/03_raw_reads/How_to_download_from_SRA.ipynb).
+The sample specific accessions can be found [here](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/03_raw_reads/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/WynneMoss/Moss_amphibian_eDNA/blob/main/03_raw_reads/How_to_download_from_SRA.ipynb).
 
 With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebook](https://github.com/WynneMoss/Moss_amphibian_eDNA/blob/main/02_metaBEAT/CA_2018_pond_eDNA_metabarcoding_analysis.ipynb).
 
