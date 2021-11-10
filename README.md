@@ -6,6 +6,8 @@ Contents are for *in press* manuscript: Moss *et al.* Navigating the tradeoffs b
 Permanently archived at: [Pending]
 
 ##  Contents:
+Supplemental materials: tables S11 - S14 [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/Supplementary_Materials)
+
 (1) Curated reference databases used in metabarcoding analysis (GenBank/fasta format) [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/01_reference_database)
 
 (2) Notebook to run metaBEAT pipeline for processing Illumina metabarcoding data
@@ -16,10 +18,9 @@ Permanently archived at: [Pending]
 
 (4) Taxonomic assignment results (metabarcoding)  [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/04_taxonomic_assignment)
 
-(5) Data - both raw and reformatted. 
+(5) Data - both raw and reformatted. Includes amphibian detection data from field, qPCR, and metabarcoding as well as survey covariates.
 [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/05_data)
 
-Includes amphibian detection data from field, qPCR, and metabarcoding as well as survey covariates.
 
 (6) Scripts for data re-formatting and analysis in R
 [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/06_scripts)
