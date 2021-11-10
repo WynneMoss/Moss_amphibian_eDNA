@@ -1,7 +1,7 @@
-# Moss et al. (in review)
+# Moss et al. (in press)
 Repository contains scripts and raw data for a study of the relative efficacy of environmental DNA techniques for amphibian monitoring.
 
-Contents are for *in prep* manuscript: Moss *et al.* Navigating the tradeoffs between environmental DNA and conventional field surveys for improved amphibian monitoring.
+Contents are for *in press* manuscript: Moss *et al.* Navigating the tradeoffs between environmental DNA and conventional field surveys for improved amphibian monitoring. Ecosphere.
 
 Permanently archived at: [Pending]
 
