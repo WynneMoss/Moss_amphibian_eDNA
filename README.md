@@ -18,9 +18,10 @@ Supplemental materials: tables S11 - S14 [(here)](https://github.com/WynneMoss/M
 
 (4) Taxonomic assignment results (metabarcoding)  [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/04_taxonomic_assignment)
 
-(5) Data - both raw and reformatted. Includes amphibian detection data from field, qPCR, and metabarcoding as well as survey covariates.
+(5) Data - both raw and reformatted. 
 [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/05_data)
 
+Includes amphibian detection data from field, qPCR, and metabarcoding as well as survey covariates.
 
 (6) Scripts for data re-formatting and analysis in R
 [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/06_scripts)
