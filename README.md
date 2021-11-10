@@ -3,7 +3,7 @@ Repository contains scripts and raw data for a study of the relative efficacy of
 
 Contents are for *in press* manuscript: Moss *et al.* Navigating the tradeoffs between environmental DNA and conventional field surveys for improved amphibian monitoring. Ecosphere.
 
-Permanently archived at: [Pending]
+Permanently archived at: [https://doi.org/10.5281/zenodo.5668341]
 
 ##  Contents:
 Supplemental materials: tables S11 - S14 [(here)](https://github.com/WynneMoss/Moss_amphibian_eDNA/tree/main/Supplementary_Materials)
